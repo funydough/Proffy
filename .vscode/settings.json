@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:nlw}/src/database/db.js",
+            "driver": "SQLite",
+            "group": "db.js",
+            "name": "db.js",
+            "previewLimit": 50
+        }
+    ]
+}
